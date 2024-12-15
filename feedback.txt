@@ -1,0 +1,27 @@
+Test result: Correct result in specified format.
+
+Correctness of the main calculation: 57/60
+- Calculation is fine. 
+
+Adherence to the specified output format: 8/10
+- Output format is as specified. 
+- Error messages are okay. 
+
+Detecting errors on input format: 8/10
+- Correctly detecting when not exactly three items are present in each line. 
+- Correctly detecting when price is non-numerical type. 
+- Not detecting when a line is empty
+- Not detecting when price is negative. Instead prints negative total. 
+- Correctly ignores when there is a duplicate entry
+- Correctly detecting and throwing error when people.txt file is empty
+- Correctly printing the names of people.txt with 'No purchases made' when payments.txt is emtpy but people.txt is not
+
+
+Programming style: 18/20
+- Good commenting of the code. 
+- Good use of both .h and .cpp files.
+- Good use of a class 
+- Good use of maps 
+
+
+Total mark: 91/100
