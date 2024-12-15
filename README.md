@@ -28,6 +28,15 @@ For each person listed in `people.txt`, the program:
 3. Calculates and displays the total expenditure.  
 
 Example Output:  
+Bob
+eggs 2.5
+pen 3.5
+Total: 6
+
+Alice
+apple 1.5
+eggs 2
+Total: 3.5
 
 
 ---
